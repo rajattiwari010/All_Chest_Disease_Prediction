@@ -10,7 +10,9 @@ This Machine Learning Model is able to predict almost all types of chest related
 ![Screenshot 2023-09-19 210208](https://github.com/rajattiwari010/All_Chest_Disease_Prediction/assets/115210236/fddec849-1cca-4abe-bb50-21ed373eb265)
 
 
-![Screenshot 2023-09-19 210223](https://github.com/rajattiwari010/All_Chest_Disease_Prediction/assets/115210236/2d199b1d-93af-458e-a7d1-5af5758d1044)
+
+![Screenshot 2023-09-19 210301](https://github.com/rajattiwari010/All_Chest_Disease_Prediction/assets/115210236/14ee0504-0f21-4688-9570-638ae0ffdcef)
+
 
 ## Features:-
 
